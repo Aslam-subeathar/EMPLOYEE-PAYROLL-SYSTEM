@@ -1,16 +1,12 @@
-# Hospitall-Mangement-System
+# EMPLOYEE PAYROLL SYSTEM
 
-Project:
-        HOSPITAL MANAGEMENT SYSTEM
+EMPLOYEE PAYROLL SYSTEM
 
-TECHNOLOGIES :
-         JAVA, MYSQL
+TECHNOLOGIES : 
+            OBJECT ORIENTED PROGRAMMING IN JAVA
 
-Managing Patients and Doctors:
-           view, and manage patient and doctor information within the system.
+Design and implement abstract classes, handle different types of employees (Working Full-Time and Part-Time Jobs).
 
-Booking Appointments:
-            Implement functionality to schedule appointments, ensuring a smooth healthcare scheduling process.
+Calculate salaries based on unique criteria, and manage employee records efficiently. Our user-friendly terminal interface ensures easy interaction.
 
-Booking Appointments:
-            Implement functionality to schedule appointments, ensuring a smooth healthcare scheduling process.
+Focusing on the core OOP principles that drive modern software development.
